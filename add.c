@@ -5,5 +5,5 @@ int main() {
 		scanf("%d");
 return 0;
 }
-//add more variables
+
 
